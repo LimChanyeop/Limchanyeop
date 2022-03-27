@@ -1,5 +1,5 @@
 ## chan.yeop's Github Repository
-  > 과정이 행복한 삶을 살고자 합니다.<br>
+  > 과정이 즐거운 삶을 살고자 합니다.<br>
 
 * ### Contacts
 
