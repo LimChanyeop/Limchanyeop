@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=130&section=header&text=chan.yeop's%20Github%20Repository&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=130&section=header&text=chan.yeop's%20Github%20Repository&fontSize=50&animation=fadeIn&desc=안녕하세요👋&descAlign=88&descAlignY=78&descSize=17)
 <br>
 > ## 과정을 즐기는 삶을 살고자 합니다.<br>
 
