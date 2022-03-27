@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=130&section=header&text=chan.yeop's%20Github%20Repository&fontSize=50&animation=fadeIn)
-
-## chan.yeop's Github Repository
-  > 과정을 즐기는 삶을 살고자 합니다.<br>
+<br>
+> ## 과정을 즐기는 삶을 살고자 합니다.<br>
 
 * ### Contacts
 
