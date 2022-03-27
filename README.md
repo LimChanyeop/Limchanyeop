@@ -1,5 +1,11 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/chanyeop-lim-862047232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=FFFFFF"/></a>
+<a href="https://profile.intra.42.fr/users/clim" target="_blank"><img src="https://img.shields.io/badge/42Seoul-FFFFFF?style=flat-square&logo=42&logoColor=000000"/></a>
+<a href="https://www.instagram.com/chan.yeop/" target="_blank"><img src="https://img.shields.io/badge/Instagram-3F729B?style=flat-square&logo=Instagram&logoColor=FF3399"/></a>
+<a href="dev.chanyeop@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dev.chanyeop@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
+
+### Hi there 👋
+![Chanyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limchanyeop&show_icons=true&theme=vue)
 <!--
 **LimChanyeop/Limchanyeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
