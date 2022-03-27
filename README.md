@@ -1,4 +1,4 @@
-## chanyeop's Github Repository
+## chan.yeop's Github Repository
 
 <br>
 
